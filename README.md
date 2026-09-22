@@ -8,13 +8,12 @@ Each exercise is a standalone Swift Package, formatted consistently and verified
 
 <br>
 
-[![CI](https://github.com/TUO_USER/exercism-swift/actions/workflows/ci.yml/badge.svg)](https://github.com/TUO_USER/exercism-swift/actions/workflows/ci.yml)
 [![Swift](https://img.shields.io/badge/Swift-6.1-F05138?logo=swift&logoColor=white)](https://swift.org)
 [![Platform](https://img.shields.io/badge/platform-macOS%20%7C%20Linux-lightgrey)](#requirements)
 [![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
-[![Last commit](https://img.shields.io/github/last-commit/TUO_USER/exercism-swift)](https://github.com/TUO_USER/exercism-swift/commits/main)
+[![Last commit](https://img.shields.io/github/last-commit/gorpello/exercism-swift)](https://github.com/gorpello/exercism-swift/commits/main)
 
-[**Exercism profile →**](https://exercism.org/profiles/TUO_USER)
+[**Exercism profile →**](https://exercism.org/profiles/gorpello)
 
 </div>
 
